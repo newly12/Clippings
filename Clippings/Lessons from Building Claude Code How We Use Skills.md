@@ -1,13 +1,15 @@
 ---
 title: "Lessons from Building Claude Code: How We Use Skills"
-source: "https://x.com/trq212/article/2033949937936085378"
+source: https://x.com/trq212/article/2033949937936085378
 author:
   - "[[Thariq (@trq212)]]"
 published: 2026-03-18
 created: 2026-03-24
 description:
 tags:
-  - "clippings"
+  - clippings
+  - ClaudeCode
+  - skills
 ---
 Skills have become one of the most used extension points in Claude Code. They’re flexible, easy to make, and simple to distribute.
 

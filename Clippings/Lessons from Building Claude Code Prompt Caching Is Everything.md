@@ -1,13 +1,14 @@
 ---
 title: "Lessons from Building Claude Code: Prompt Caching Is Everything"
-source: "https://x.com/trq212/article/2024574133011673516"
+source: https://x.com/trq212/article/2024574133011673516
 author:
   - "[[Thariq (@trq212)]]"
 published: 2026-02-20
 created: 2026-03-24
 description:
 tags:
-  - "clippings"
+  - clippings
+  - ClaudeCode
 ---
 It is often said in engineering that "Cache Rules Everything Around Me", and the same rule holds for agents.
 

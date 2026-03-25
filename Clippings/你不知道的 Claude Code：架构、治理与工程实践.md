@@ -8,6 +8,7 @@ created: 2026-03-25
 description:
 tags:
   - clippings
+  - ClaudeCode
 ---
 今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。
 

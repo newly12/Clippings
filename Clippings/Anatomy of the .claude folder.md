@@ -8,6 +8,7 @@ created: 2026-03-25
 description:
 tags:
   - clippings
+  - ClaudeCode
 ---
 **A complete guide to CLAUDE.md, custom commands, skills, agents, and permissions, and how to set them up properly.**
 

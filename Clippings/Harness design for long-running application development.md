@@ -7,6 +7,7 @@ created: 2026-03-25
 description: Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.
 tags:
   - clippings
+  - harness
 ---
 *Written by Prithvi Rajasekaran, a member of our [Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team.*
 

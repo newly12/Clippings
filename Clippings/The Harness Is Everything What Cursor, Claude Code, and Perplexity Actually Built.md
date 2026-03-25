@@ -1,13 +1,14 @@
 ---
 title: "The Harness Is Everything: What Cursor, Claude Code, and Perplexity Actually Built"
-source: "https://x.com/rohit4verse/article/2033945654377283643"
+source: https://x.com/rohit4verse/article/2033945654377283643
 author:
   - "[[Rohit (@rohit4verse)]]"
 published: 2026-03-18
 created: 2026-03-24
 description:
 tags:
-  - "clippings"
+  - clippings
+  - harness
 ---
 You are not using AI wrong because you haven't found the right model.
 

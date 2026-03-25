@@ -1,13 +1,15 @@
 ---
 title: "Lessons from Building Claude Code: Seeing like an Agent"
-source: "https://x.com/trq212/article/2027463795355095314"
+source: https://x.com/trq212/article/2027463795355095314
 author:
   - "[[Thariq (@trq212)]]"
 published: 2026-02-28
 created: 2026-03-24
 description:
 tags:
-  - "clippings"
+  - clippings
+  - ClaudeCode
+  - harness
 ---
 One of the hardest parts of building an agent harness is constructing its action space.
 

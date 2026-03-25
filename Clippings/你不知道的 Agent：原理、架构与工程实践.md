@@ -8,6 +8,7 @@ created: 2026-03-25
 description:
 tags:
   - clippings
+  - ClaudeCode
 ---
 在写完「你不知道的 Claude Code：架构、治理与工程实践」之后，发现自己对 Agent 底层的理解还不够深入，加上团队在 Agent 方向已经有不少业务落地经验，一直缺少一份系统梳理，所以我又把资料、开源实现和自己写的代码一起过了一遍，最后整理成了这篇文章。
 
