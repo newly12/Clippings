@@ -4,7 +4,7 @@ source: https://www.anthropic.com/engineering/effective-harnesses-for-long-runni
 author:
 published: 2025-11-26
 created: 2026-03-26
-description: Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+description: Agents still face challenges working across many context windows. We looked to human engineers for inspiration in creating a more effective harness for long-running agents.
 tags:
   - clippings
   - ClaudeCode
