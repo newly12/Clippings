@@ -1,13 +1,13 @@
 ---
-title: "When to use multi-agent systems (and when not to)"
-source: "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them"
+title: When to use multi-agent systems (and when not to)
+source: https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them
 author:
   - "[[Claude]]"
-published: 2001-01-23
+published: 2026-01-23
 created: 2026-03-26
-description: "Most teams don't need multi-agent systems. Learn the three scenarios where they consistently outperform single agents—and how to implement them effectively."
+description: Most teams don't need multi-agent systems. Learn the three scenarios where they consistently outperform single agents—and how to implement them effectively.
 tags:
-  - "clippings"
+  - clippings
 ---
 A multi-agent system is an architecture where multiple LLM instances run with separate conversation contexts, coordinated through code. Multiple coordination patterns exist (agent swarms, capability-based systems, and message bus architectures), but this article focuses on the orchestrator-subagent pattern: a hierarchical model where a lead agent spawns and manages specialized subagents for specific subtasks. This pattern offers a straightforward coordination model and is a good starting point for teams new to multi-agent systems. We'll explore other patterns in detail in our next article.
 

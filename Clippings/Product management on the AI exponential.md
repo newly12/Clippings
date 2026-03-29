@@ -1,13 +1,13 @@
 ---
-title: "Product management on the AI exponential"
-source: "https://claude.com/blog/product-management-on-the-ai-exponential"
+title: Product management on the AI exponential
+source: https://claude.com/blog/product-management-on-the-ai-exponential
 author:
   - "[[Claude]]"
-published: 2001-03-19
+published: 2026-03-19
 created: 2026-03-26
-description: "Claude Code’s Head of Product Cat Wu shares how teams should rethink their workflows and roadmaps in the face of rapidly evolving model intelligence."
+description: Claude Code’s Head of Product Cat Wu shares how teams should rethink their workflows and roadmaps in the face of rapidly evolving model intelligence.
 tags:
-  - "clippings"
+  - clippings
 ---
 Since [Claude Sonnet 3.5 (new)](https://www.anthropic.com/news/3-5-models-and-computer-use) in October 2024, I made a habit of testing every new model by asking Claude Code (an internal tool at the time) to add a table tool to Excalidraw. With each new model, Claude got a little further but still failed.
 
